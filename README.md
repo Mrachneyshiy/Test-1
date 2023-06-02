@@ -1,4 +1,4 @@
-# devops-netology 1
+# devops-netology
 
 1. **/.terraform/* - будет игнорировать каталог terraform в любом расположении
 2. *.tfstate, *.tfstate.* - будет игнорировать файлы с расширением .tfstate, а также файты или каталоги где есть это имя
